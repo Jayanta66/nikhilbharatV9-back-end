@@ -22,6 +22,7 @@ import com.bezkoder.spring.files.upload.db.message.ResponseMessage;
 import com.bezkoder.spring.files.upload.db.model.FileDB;
 
 @Controller
+//@CrossOrigin("https://jayanta66.github.io/")
 @CrossOrigin("http://localhost:8081")
 public class FileController {
 
